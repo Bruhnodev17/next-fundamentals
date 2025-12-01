@@ -17,6 +17,9 @@ export function Header() {
             <li>
               <Link href={"/contacts"}>contacts</Link>
             </li>
+            <li>
+              <Link href={"/posts"}>Posts</Link>
+            </li>
           </ul>
         </nav>
       </div>
